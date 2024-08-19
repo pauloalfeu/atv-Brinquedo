@@ -9,4 +9,4 @@ Outros valores são inválidos e não devem ser armazenados. Essa validação de
   
 A seguir, elabore a classe TestaBrinquedo para testar as funcionalidades da classe Brinquedo. 
 
-![ClasseBrinquedo]([https://github.com/pauloalfeu/eng-software/blob/a59b25cda1b6d41be94f1706a0ae855ddd52f734/ifprlogo.png](https://github.com/pauloalfeu/atv-Brinquedo/blob/e95e2a6fb738a7e1558ad28cb293d043a162a865/ClasseBrinquedo.png))
+![ClasseBrinquedo]([[https://github.com/pauloalfeu/eng-software/blob/a59b25cda1b6d41be94f1706a0ae855ddd52f734/ifprlogo.png](https://github.com/pauloalfeu/atv-Brinquedo/blob/e95e2a6fb738a7e1558ad28cb293d043a162a865/ClasseBrinquedo.png)](https://github.com/pauloalfeu/atv-Brinquedo/blob/main/ClasseBrinquedo.png?raw=true))
